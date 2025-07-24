@@ -75,18 +75,3 @@ The complete code and documentation are available in the GitHub repository."
 
 ---
 
-## Recording Tips:
-1. Use screen recording software (OBS, Loom, etc.)
-2. Keep cursor movements smooth and deliberate
-3. Speak clearly and at moderate pace
-4. Show actual working application, not just slides
-5. Highlight key code sections while explaining
-6. End with GitHub repository link display
-
-## Visual Elements to Include:
-- Live application interface
-- Code snippets
-- Architecture diagrams
-- Message flow visualization
-- File structure view
-- Working document upload and query demo
